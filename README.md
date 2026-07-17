@@ -46,6 +46,11 @@ The physical validation script evaluates the battery storage depletion curve ove
 ```bash
 pip install numpy matplotlib
 
+Dual-Sided Feasibility MethodologyThis study uses a strict Two-Sided Venture Assessment:Customer-Side Valuation: Quantifies post-harvest savings and dairy/pharmaceutical waste mitigation to validate the end-user's value surplus and absolute willingness to pay.Company-Side Profitability: Maps localized production costs directly into audit-ready Income Statements, Cash Flow Statements (Indirect Method), and Capital Budgeting Metrics ($NPV$).
+
+License & Citation
+This framework is developed for academic and commercial feasibility evaluation. Feel free to fork, optimize the thermodynamic equations, or adapt the financial matrices for your own regional clean-energy studies.
+
 # Important Notice
 
 This repository contains code published for demonstration and testing purposes only. 
