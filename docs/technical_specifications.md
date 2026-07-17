@@ -15,3 +15,6 @@ This document maps out the specific hardware profiles that change dynamically ac
 
 ## 🔌 System Layout & Circuit Logic
 Because our setup operates as a **Direct DC Architecture**, we completely eliminate the inverter stage.
+[Solar PV Array] ──> [MPPT Charge Controller] ──> [LiFePO4 Battery Bank] ──> [Fuzzy-Logic BLDC Driver] ──> [Compressor Motor]
+
+This direct-current topology eliminates the standard 12% to 15% DC-to-AC conversion loss and prevents high thermal-surge feedback loop failures inside the electronics.
