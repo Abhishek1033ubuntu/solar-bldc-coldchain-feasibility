@@ -1,0 +1,14 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Microsoft Excel temporary locking files (Crucial for messy spreadsheets!)
+~$*.xlsx
+~$*.xls
+*.tmp
+
+# Operating System background logs
+.DS_Store
+Thumbs.db
