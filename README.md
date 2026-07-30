@@ -1,7 +1,6 @@
 # Techno-Commercial Feasibility of Climate-Isolated Solar BLDC Refrigeration Solutions
----
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21536669.svg)](https://doi.org/10.5281/zenodo.21536669) ![Status](https://img.shields.io/badge/Status-Research_POC-orange) ![Type](https://img.shields.io/badge/Type-Simulation_Model-blue)
----
 
 ## 📌 Executive Summary
 This project evaluates the technical viability and corporate financial feasibility of deploying decentralized, solar-powered Cold-Chain Solutions tailored to micro-climatic variances across developing markets (Baseline: Rural India). 
