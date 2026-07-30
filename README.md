@@ -1,15 +1,12 @@
 # Techno-Commercial Feasibility of Climate-Isolated Solar BLDC Refrigeration Solutions
+---
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21536669.svg)](https://doi.org/10.5281/zenodo.21536669) ![Status](https://img.shields.io/badge/Status-Research_POC-orange) ![Type](https://img.shields.io/badge/Type-Simulation_Model-blue)
+---
 
 ## 📌 Executive Summary
 This project evaluates the technical viability and corporate financial feasibility of deploying decentralized, solar-powered Cold-Chain Solutions tailored to micro-climatic variances across developing markets (Baseline: Rural India). 
 
 By integrating a **Google Colab Python Physical Simulation PoC** with an **Accrual-Based Corporate Financial Framework**, this study bridges the gap between hardware engineering constraints and macroeconomic investment feasibility ($NPV$, Payback, and Cash Flow liquidity).
-
----
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21536669.svg)](https://doi.org/10.5281/zenodo.21536669)
-![Status](https://img.shields.io/badge/Status-Research_POC-orange)
-![Type](https://img.shields.io/badge/Type-Simulation_Model-blue)
----
 
 ## 🛠️ The Tech-Box Solution & Technical Architecture
 Traditional AC-induction refrigeration solutions suffer from massive, destructive startup current surges (5x-6x running load), making off-grid solar scaling financially non-viable. 
